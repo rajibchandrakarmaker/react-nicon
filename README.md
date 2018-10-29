@@ -52,4 +52,4 @@ All standard props like `style`, `onClick` are supported.
 
 #### License:
 
-This project, like the [icofont](https://icofont.com) project, is released under the [MIT License](https://opensource.org/licenses/MIT)
+Released under the [MIT License](https://opensource.org/licenses/MIT)
