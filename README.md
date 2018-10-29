@@ -1,6 +1,6 @@
 ## React component for the nicon
 
-A React component for the nicon project <https://icofont.com/>. It renders a `<i>` tag with icofont classes.
+A React component for the nicon project <https://icofont.com/> (made by <https://www.joomshaper.com/>). It renders a `<i>` tag with icofont classes.
 
 #### prerequisite:
 
@@ -36,7 +36,7 @@ Any valid icon name from the icofont website (<https://icofont.com/icons>).
 
 **size** (Optional):
 
-Size can have value from `1` to `10`. For example, `size="2"`.
+Size can have value from `1` to `10`.
 
 **rotate** (Optional):
 
@@ -44,7 +44,7 @@ Size can have value from `1` to `10`. For example, `size="2"`.
 
 **flip** (Optional):
 
-Filp icon using `horizontal` or `h` and `vertical` or `v`.
+Filp icon using - `horizontal` or `h` and `vertical` or `v`.
 
 #### Standard Props Support:
 
