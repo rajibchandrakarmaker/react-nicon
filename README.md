@@ -1,6 +1,6 @@
 ## React component for the nicon
 
-A React component for the nicon project <https://icofont.com/> (made by <https://www.joomshaper.com/>). It renders a `<i>` tag with icofont classes.
+A React component for the icofont project <https://icofont.com/> (made by <https://www.joomshaper.com/>). It renders a `<i>` tag with icofont classes.
 
 #### prerequisite:
 
